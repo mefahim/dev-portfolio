@@ -29,6 +29,26 @@ section {
     color: orange;
 }
 
+.dfault-btn {
+    text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+.dream-big {
+    background-image: url("../images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+
 .dev-img img {
     width: 100%;
+}
+
+.dream-big-title h1 {
+    font-size: 50px;
 }
